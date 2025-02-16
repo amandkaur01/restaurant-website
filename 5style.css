@@ -1,0 +1,42 @@
+
+li{
+    display: list-item;
+}
+.main{
+    background-image:url("https://us.images.westend61.de/0001319663pw/close-up-of-laid-table-in-a-fancy-restaurant-VABF02582.jpg");
+background-repeat: no-repeat;
+object-fit: cover;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: 90px;
+text-shadow: 2px 2px 4px black;
+height: 100vh;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.x{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+}
+.x >i{
+    font-size: 30px;
+    color: linear-gradient(to top left,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d,#f56040,#f77737,#fcaf45,#ffdc80);
+}
+.contact>button{
+    padding: 40px;
+border: 2px solid black;
+border-radius: 13px;
+    margin: 20px;
+    font-size: 22px;
+}

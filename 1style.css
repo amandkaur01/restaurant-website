@@ -1,0 +1,36 @@
+body {
+    background:url("https://b.zmtcdn.com/data/pictures/3/19608043/cb4a573faa4ae11adf6a60edd020555b.jpg");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    flex-direction: column;
+}
+.food{
+    background-color: transparent;
+    color:black;
+    height:80px;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+
+}
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+li{
+    display: inline;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
