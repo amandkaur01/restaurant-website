@@ -11,8 +11,8 @@
 
  ## Team Members  
  This project was created as part of our first hackathon by:  
- -[Amandeep Kaur]()  
- -[S.Aashritha Reddy]()  
+ -[Amandeep Kaur](https://github.com/amandkaur01)  
+ -[S.Aashritha Reddy](https://github.com/Aashritha29)  
 
  ## Author  
  This project was developed to learn and explore web development during a hackathon.
